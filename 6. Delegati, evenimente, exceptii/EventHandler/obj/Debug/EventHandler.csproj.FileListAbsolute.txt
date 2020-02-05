@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/EventHandler/bin/Debug/EventHandler.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/EventHandler/bin/Debug/EventHandler.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/EventHandler/obj/Debug/EventHandler.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/EventHandler/obj/Debug/EventHandler.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/EventHandler/obj/Debug/EventHandler.pdb

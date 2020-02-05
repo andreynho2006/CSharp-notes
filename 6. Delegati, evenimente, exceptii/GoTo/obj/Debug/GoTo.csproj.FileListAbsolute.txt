@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/GoTo/bin/Debug/GoTo.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/GoTo/bin/Debug/GoTo.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/GoTo/obj/Debug/GoTo.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/GoTo/obj/Debug/GoTo.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/GoTo/obj/Debug/GoTo.pdb

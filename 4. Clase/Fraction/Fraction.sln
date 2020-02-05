@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction.csproj", "{2D83AA1E-4A22-4514-8B04-07580B5B3DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D83AA1E-4A22-4514-8B04-07580B5B3DFA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2D83AA1E-4A22-4514-8B04-07580B5B3DFA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2D83AA1E-4A22-4514-8B04-07580B5B3DFA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2D83AA1E-4A22-4514-8B04-07580B5B3DFA}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataValue", "DataValue.csproj", "{713E702B-5E81-484E-8E8C-810A42E23CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713E702B-5E81-484E-8E8C-810A42E23CCF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{713E702B-5E81-484E-8E8C-810A42E23CCF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{713E702B-5E81-484E-8E8C-810A42E23CCF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{713E702B-5E81-484E-8E8C-810A42E23CCF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

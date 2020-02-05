@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/DelegatMulicast/bin/Debug/DelegatMulicast.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/DelegatMulicast/bin/Debug/DelegatMulicast.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/DelegatMulicast/obj/Debug/DelegatMulicast.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/DelegatMulicast/obj/Debug/DelegatMulicast.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/DelegatMulicast/obj/Debug/DelegatMulicast.pdb

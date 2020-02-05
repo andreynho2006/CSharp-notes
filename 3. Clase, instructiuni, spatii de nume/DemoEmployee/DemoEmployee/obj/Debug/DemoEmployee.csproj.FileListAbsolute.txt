@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoEmployee/DemoEmployee/bin/Debug/DemoEmployee.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoEmployee/DemoEmployee/bin/Debug/DemoEmployee.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoEmployee/DemoEmployee/obj/Debug/DemoEmployee.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoEmployee/DemoEmployee/obj/Debug/DemoEmployee.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoEmployee/DemoEmployee/obj/Debug/DemoEmployee.pdb

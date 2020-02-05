@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/Fraction/bin/Debug/Fraction.exe
+/Users/andrei/Desktop/C#-projects/cursC#/Fraction/bin/Debug/Fraction.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/Fraction/obj/Debug/Fraction.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/Fraction/obj/Debug/Fraction.exe
+/Users/andrei/Desktop/C#-projects/cursC#/Fraction/obj/Debug/Fraction.pdb

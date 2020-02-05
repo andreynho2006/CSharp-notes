@@ -1,0 +1,11 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/bin/Debug/netcoreapp3.1/DemoTipValoare
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/bin/Debug/netcoreapp3.1/DemoTipValoare.deps.json
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/bin/Debug/netcoreapp3.1/DemoTipValoare.runtimeconfig.json
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/bin/Debug/netcoreapp3.1/DemoTipValoare.runtimeconfig.dev.json
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/bin/Debug/netcoreapp3.1/DemoTipValoare.dll
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/bin/Debug/netcoreapp3.1/DemoTipValoare.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/obj/Debug/netcoreapp3.1/DemoTipValoare.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/obj/Debug/netcoreapp3.1/DemoTipValoare.AssemblyInfoInputs.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/obj/Debug/netcoreapp3.1/DemoTipValoare.AssemblyInfo.cs
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/obj/Debug/netcoreapp3.1/DemoTipValoare.dll
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/DemoTipValoare/obj/Debug/netcoreapp3.1/DemoTipValoare.pdb

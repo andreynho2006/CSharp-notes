@@ -1,0 +1,11 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/bin/Debug/netcoreapp3.1/ClaseEvenimentul
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/bin/Debug/netcoreapp3.1/ClaseEvenimentul.deps.json
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/bin/Debug/netcoreapp3.1/ClaseEvenimentul.runtimeconfig.json
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/bin/Debug/netcoreapp3.1/ClaseEvenimentul.runtimeconfig.dev.json
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/bin/Debug/netcoreapp3.1/ClaseEvenimentul.dll
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/bin/Debug/netcoreapp3.1/ClaseEvenimentul.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/obj/Debug/netcoreapp3.1/ClaseEvenimentul.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/obj/Debug/netcoreapp3.1/ClaseEvenimentul.AssemblyInfoInputs.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/obj/Debug/netcoreapp3.1/ClaseEvenimentul.AssemblyInfo.cs
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/obj/Debug/netcoreapp3.1/ClaseEvenimentul.dll
+/Users/andrei/Desktop/C#-projects/cursC#/curs3/ClaseEvenimentul/obj/Debug/netcoreapp3.1/ClaseEvenimentul.pdb

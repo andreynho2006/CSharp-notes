@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/comparision/bin/Debug/comparision.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/comparision/bin/Debug/comparision.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/comparision/obj/Debug/comparision.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/comparision/obj/Debug/comparision.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/comparision/obj/Debug/comparision.pdb

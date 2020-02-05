@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/ExceptionHandling/bin/Debug/ExceptionHandling.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/ExceptionHandling/obj/Debug/ExceptionHandling.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/ExceptionHandling/obj/Debug/ExceptionHandling.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/ExceptionHandling/obj/Debug/ExceptionHandling.pdb

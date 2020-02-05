@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/Delegate/bin/Debug/Delegate.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/Delegate/bin/Debug/Delegate.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/Delegate/obj/Debug/Delegate.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/Delegate/obj/Debug/Delegate.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs6/Delegate/obj/Debug/Delegate.pdb

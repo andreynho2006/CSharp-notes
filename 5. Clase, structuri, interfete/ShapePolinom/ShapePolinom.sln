@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapePolinom", "ShapePolinom.csproj", "{41FBC9A6-9E16-446B-A48D-E13F96D7F9F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41FBC9A6-9E16-446B-A48D-E13F96D7F9F4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{41FBC9A6-9E16-446B-A48D-E13F96D7F9F4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{41FBC9A6-9E16-446B-A48D-E13F96D7F9F4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{41FBC9A6-9E16-446B-A48D-E13F96D7F9F4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

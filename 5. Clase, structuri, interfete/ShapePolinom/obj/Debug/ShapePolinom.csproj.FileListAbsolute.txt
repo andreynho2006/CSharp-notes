@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/curs5/ShapePolinom/bin/Debug/ShapePolinom.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs5/ShapePolinom/bin/Debug/ShapePolinom.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/curs5/ShapePolinom/obj/Debug/ShapePolinom.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/curs5/ShapePolinom/obj/Debug/ShapePolinom.exe
+/Users/andrei/Desktop/C#-projects/cursC#/curs5/ShapePolinom/obj/Debug/ShapePolinom.pdb

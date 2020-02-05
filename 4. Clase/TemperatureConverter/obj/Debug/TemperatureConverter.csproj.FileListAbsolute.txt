@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/TemperatureConverter/bin/Debug/TemperatureConverter.exe
+/Users/andrei/Desktop/C#-projects/cursC#/TemperatureConverter/bin/Debug/TemperatureConverter.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/TemperatureConverter/obj/Debug/TemperatureConverter.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/TemperatureConverter/obj/Debug/TemperatureConverter.exe
+/Users/andrei/Desktop/C#-projects/cursC#/TemperatureConverter/obj/Debug/TemperatureConverter.pdb
