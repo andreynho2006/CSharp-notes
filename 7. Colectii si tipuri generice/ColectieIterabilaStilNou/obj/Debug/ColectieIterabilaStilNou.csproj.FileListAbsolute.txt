@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/ColectieIterabilaStilNou/bin/Debug/ColectieIterabilaStilNou.exe
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/ColectieIterabilaStilNou/bin/Debug/ColectieIterabilaStilNou.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/ColectieIterabilaStilNou/obj/Debug/ColectieIterabilaStilNou.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/ColectieIterabilaStilNou/obj/Debug/ColectieIterabilaStilNou.exe
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/ColectieIterabilaStilNou/obj/Debug/ColectieIterabilaStilNou.pdb

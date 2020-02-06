@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/DemoCollection/bin/Debug/DemoCollection.exe
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/DemoCollection/bin/Debug/DemoCollection.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/DemoCollection/obj/Debug/DemoCollection.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/DemoCollection/obj/Debug/DemoCollection.exe
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/DemoCollection/obj/Debug/DemoCollection.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColectieIterabilaStilNou", "ColectieIterabilaStilNou.csproj", "{DC864DC5-D66E-4908-A955-CF47F850302A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC864DC5-D66E-4908-A955-CF47F850302A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DC864DC5-D66E-4908-A955-CF47F850302A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DC864DC5-D66E-4908-A955-CF47F850302A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DC864DC5-D66E-4908-A955-CF47F850302A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

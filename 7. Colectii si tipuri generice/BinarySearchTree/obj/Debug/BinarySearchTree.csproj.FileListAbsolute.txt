@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/BinarySearchTree/bin/Debug/BinarySearchTree.exe
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/BinarySearchTree/bin/Debug/BinarySearchTree.pdb
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/BinarySearchTree/obj/Debug/BinarySearchTree.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/BinarySearchTree/obj/Debug/BinarySearchTree.exe
+/Users/andrei/Desktop/C#-projects/cursC#/7. Colectii si tipuri generice/BinarySearchTree/obj/Debug/BinarySearchTree.pdb
